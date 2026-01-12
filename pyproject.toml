@@ -1,0 +1,12 @@
+[project]
+name = "study-mcp-host-with-gradio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.75.0",
+    "dotenv>=0.9.9",
+    "gradio>=6.3.0",
+    "mcp>=1.25.0",
+]

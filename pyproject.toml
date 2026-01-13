@@ -10,3 +10,8 @@ dependencies = [
     "gradio>=6.3.0",
     "mcp>=1.25.0",
 ]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.11",
+]
